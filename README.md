@@ -20,8 +20,8 @@ By abstracting complex flight dynamics into an automated orbit system, the proje
 ## 🎬 Gameplay Showcase
 
 <p align="center">
-  <a href="BURAYA_YOUTUBE_LINKINI_YAPISTIR" target="_blank">
-    <img src="https://img.youtube.com/vi/BURAYA_VIDEO_IDSINI_YAZ/maxresdefault.jpg" alt="AC-130 Gunship Sim Gameplay" width="600">
+  <a href="https://www.youtube.com/shorts/JPgVjzYVN84" target="_blank">
+    <img src="https://img.youtube.com/vi/JPgVjzYVN84/maxresdefault.jpg" alt="AC-130 Gunship Sim Gameplay" width="600">
   </a>
 </p>
 <p align="center"><i>Click the image to watch the full gameplay on YouTube</i></p>
