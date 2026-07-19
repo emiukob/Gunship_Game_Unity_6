@@ -40,7 +40,6 @@ By abstracting complex flight dynamics into an automated orbit system, the proje
 
 ## 📸 Visual Showcase
 
-*(Note: Replace the placeholder images with your actual 16:9 gameplay screenshots)*
 
 | Targeting & Avionics (HUD) | Thermal Vision (FLIR) |
 | :---: | :---: |
