@@ -44,11 +44,11 @@ By abstracting complex flight dynamics into an automated orbit system, the proje
 
 | Targeting & Avionics (HUD) | Thermal Vision (FLIR) |
 | :---: | :---: |
-| <img src="Screenshots/gunship_hud_placeholder.png" width="400"><br><i>Gimbal tracking and weapon telemetry.</i> | <img src="Screenshots/thermal_vision_placeholder.png" width="400"><br><i>White Hot / Black Hot dynamic heat detection.</i> |
+| <img src="Images/tracking.png" width="400"><br><i>Gimbal tracking and weapon telemetry.</i> | <img src="Images/Blckir.png" width="400"><br><i>White Hot / Black Hot dynamic heat detection.</i> |
 
 | Dynamic Destruction | Radar & Threat Detection |
 | :---: | :---: |
-| <img src="Screenshots/explosion_terrain_placeholder.png" width="400"><br><i>Real-time terrain deformation and particle FX.</i> | <img src="Screenshots/radar_lock_placeholder.png" width="400"><br><i>Active threat tracking and radar interfacing.</i> |
+| <img src="Images/destruckiton.png" width="400"><br><i>Real-time terrain deformation with Mesh Deformation.</i> | 
 
 ---
 
