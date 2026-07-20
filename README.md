@@ -47,7 +47,7 @@ By abstracting complex flight dynamics into an automated orbit system, the proje
 
 | Dynamic Destruction | 
 | :---: | :---: |
-| <img src="Images/destruckiton.png" width="400"><br><i>Real-time terrain deformation with Mesh Deformation.</i> | <img src="Images/GunHeat.png" width="400"><br><i>25mm Heat Bar for Game Balance</i> |
+| <img src="Images/destruckiton.png" width="400"><br><i>Real-time terrain deformation with Mesh Deformation.</i> | <img src="Images/GunHeat.png" width="400"><br><i>25mm Heat Bar for Game Balance.</i> |
 
 ---
 
