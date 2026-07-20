@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚁 AC-130 Gunship: Close Air Support Sim-Game</h1>
+  <h1>✈️ AC-130 Gunship: Close Air Support Sim-Game</h1>
   <p><b>Advanced Targeting, Thermal Imaging & Dynamic Destruction Framework</b></p>
   <img src="https://img.shields.io/badge/Unity-6%20LTS-black?style=for-the-badge&logo=unity" alt="Unity 6"/>
   <img src="https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&logo=c-sharp" alt="C#"/>
